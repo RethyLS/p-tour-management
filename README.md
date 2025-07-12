@@ -1,17 +1,17 @@
-# 🧾 P Tour Sale Management System
+# P Tour Sale Management System
 
-## 📌 Overview
+## Overview
 
 This is a fullstack web application to manage:
-- 👥 Users
-- 🗂️ Categories
-- 📦 Products
+- Users
+- Categories
+- Products
 
 Includes secure login/register system with JWT authentication, role-based user access, and complete CRUD functionality.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React, Axios, CSS
 - **Backend**: Node.js, Express, MongoDB
@@ -19,9 +19,9 @@ Includes secure login/register system with JWT authentication, role-based user a
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
-### 🔧 Backend Setup
+### Backend Setup
 
 ```bash
 cd backend
